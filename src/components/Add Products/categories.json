@@ -1,0 +1,215 @@
+[
+  {
+      "name": "Home Essentials",
+      "subcategories": [
+        "Cleaning Supplies",
+        "Bedding and Linens",
+        "Furniture",
+        "Home Decor",
+        "Laundry Products",
+        "Storage Solutions",
+        "Lighting Fixtures",
+        "Candles and Scents",
+        "Organization and Shelving",
+        "Home Office Supplies",
+        "Home Safety and Security"
+      ]
+    },
+    {
+      "name": "Kitchen Essentials",
+      "subcategories": [
+        "Cookware",
+        "Utensils",
+        "Small Appliances",
+        "Pantry Staples"
+      ]
+    },{
+      "name": "Grains and Spices",
+      "subcategories": [
+        "Rice",
+        "Wheat",
+        "Ravai",
+        "Pepper",
+        "Garlic",
+        "Cumin",
+        "Coriander",
+        "Cardamom",
+        "Turmeric",
+        "Cloves",
+        "Cinnamon",
+        "Wheat Powder",
+        "Chili Powder",
+        "Mustard Seeds",
+        "Fenugreek",
+        "Fennel Seeds",
+        "Ginger",
+        "Bay Leaves",
+        "Nutmeg"
+      ]
+    },
+    {
+      "name": "Pet Care",
+      "subcategories": [
+        "Dog Food",
+        "Cat Food",
+        "Pet Toys",
+        "Grooming Supplies"
+      ]
+    },
+    {
+      "name": "Baby Care",
+      "subcategories": [
+        "Diapers",
+        "Baby Food",
+        "Baby Clothing",
+        "Baby Safety Products"
+      ]
+    },
+    {
+      "name": "Fruits and Vegetables",
+      "subcategories": [
+        "Fresh Fruits",
+        "Dry Fruits",
+        "Fresh Vegetables",
+        "Organic Produce",
+        "Exotic Fruits and Vegetables"
+      ]
+    },
+    {
+      "name": "Makeup Essentials",
+      "subcategories": [
+        "Face Makeup",
+        "Eye Makeup",
+        "Lip Care",
+        "Makeup Tools"
+      ]
+    },
+    {
+      "name": "Personal Care",
+      "subcategories": [
+        "Hair Care",
+        "Skin Care",
+        "Bath and Shower",
+        "Oral Care"
+      ]
+    },
+    {
+      "name": "Health and Wellness",
+      "subcategories": [
+        "Vitamins and Supplements",
+        "First Aid Supplies",
+        "Pain Relief",
+        "Health Monitors"
+      ]
+    },
+    {
+      "name": "Beverages",
+      "subcategories": [
+        "Soft Drinks",
+        "Tea and Coffee",
+        "Juices",
+        "Alcoholic Beverages"
+      ]
+    },
+    {
+      "name": "Snacks and Sweets",
+      "subcategories": [
+        "Chips and Crackers",
+        "Chocolate and Candy",
+        "Nuts and Dried Fruits",
+        "Baked Goods"
+      ]
+    },
+    {
+      "name": "Dairy and Eggs",
+      "subcategories": ["Milk", "Cheese", "Yogurt", "Eggs"]
+    },
+    {
+      "name": "Meat and Seafood",
+      "subcategories": ["Beef", "Chicken", "Fish and Seafood", "Deli Meats"]
+    },
+    {
+      "name": "Bakery and Bread",
+      "subcategories": ["Bread", "Pastries", "Cakes and Desserts"]
+    },
+    {
+      "name": "Canned and Packaged Goods",
+      "subcategories": [
+        "Canned Vegetables",
+        "Pasta and Rice",
+        "Sauces and Condiments"
+      ]
+    },
+    {
+      "name": "Frozen Foods",
+      "subcategories": ["Frozen Meals", "Ice Cream", "Frozen Vegetables"]
+    },
+    {
+      "name": "Household Supplies",
+      "subcategories": ["Paper Towels", "Toilet Paper", "Laundry Detergent"]
+    },
+    {
+      "name": "Gardening and Outdoor",
+      "subcategories": ["Gardening Tools", "Outdoor Furniture", "BBQ Supplies"]
+    },
+    {
+      "name": "Electronics and Appliances",
+      "subcategories": [
+        "Kitchen Appliances",
+        "Home Electronics",
+        "Phone Accessories"
+      ]
+    },
+    {
+      "name": "Office and School Supplies",
+      "subcategories": ["Stationery", "Office Furniture", "School Supplies"]
+    },
+    {
+      "name": "Books and Magazines",
+      "subcategories": ["Fiction", "Non-Fiction", "Magazines"]
+    },
+    {
+      "name": "Clothing and Apparel",
+      "subcategories": ["Men's Clothing", "Women's Clothing", "Kids' Clothing"]
+    },
+    {
+      "name": "Sports and Fitness",
+      "subcategories": ["Sports Equipment", "Fitness Gear", "Activewear"]
+    },
+    {
+      "name": "Automotive",
+      "subcategories": ["Car Parts", "Car Care Products", "Accessories"]
+    },
+    {
+      "name": "Party and Event Supplies",
+      "subcategories": ["Party Decorations", "Event Planning Supplies", "Party Favors"]
+    },
+    {
+      "name": "Travel and Luggage",
+      "subcategories": ["Luggage", "Travel Accessories", "Travel-sized Toiletries"]
+    },
+    {
+      "name": "Craft and Hobbies",
+      "subcategories": ["Craft Supplies", "Hobby Kits", "DIY Tools"]
+    },
+    {
+      "name": "Electronics and Gadgets",
+      "subcategories": [
+        "Electronics Accessories",
+        "Gadgets and Gizmos",
+        "Smart Home Devices"
+      ]
+    },
+    {
+      "name": "Musical Instruments",
+      "subcategories": ["Guitars", "Keyboards", "Music Accessories"]
+    },
+    {
+      "name": "Home Improvement",
+      "subcategories": ["Tools", "Building Materials", "Home Renovation"]
+    },
+    {
+      "name": "Art and Craft Supplies",
+      "subcategories": ["Painting Supplies", "Drawing Tools", "Craft Paper"]
+    }
+  ]
