@@ -18,7 +18,7 @@ function ProductCard(props) {
         )}
       </div>
       <div className="name-desc">
-      <Link to={`/product/${product.id}`}>
+      <Link to={`/product/${product.id}`} style={{ textDecoration: 'none' }}>
       <div className="product-name">{product.ProductName}</div>
       </Link>
       <div className="product-description">{product.productQuantity}</div>
